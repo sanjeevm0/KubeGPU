@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"plugin"
 
 	"github.com/Microsoft/KubeGPU/crishim/pkg/app"
-	"github.com/Microsoft/KubeGPU/gpuextension/device"
 )
 
 func main() {
